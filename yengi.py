@@ -1,0 +1,1 @@
+print('hello crazy boy')
